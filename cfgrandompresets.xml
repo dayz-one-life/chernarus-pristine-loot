@@ -73,14 +73,20 @@
 		<item name="MK4Optic_Green" chance="0.34" />
 		<item name="MK4Optic_Tan" chance="0.34" />
 	</attachments>
-	<attachments chance="0.5" name="Pistol_Optics">
-		<item name="FNP45_MRDSOptic" chance="1.0" />
-	</attachments>
 	<attachments chance="1.0" name="Hunting_Optics">
 		<item name="HuntingOptic" chance="1.0" />
 	</attachments>
 	<attachments chance="1.0" name="Mosin_Optics">
 		<item name="PUScopeOptic" chance="1.0" />
+	</attachments>
+	<attachments chance="0.5" name="Pistol_Optics">
+		<item name="FNP45_MRDSOptic" chance="1.0" />
+	</attachments>
+	<attachments chance="0.5" name="Pistol_Flashlights">
+		<item name="TLRLight" chance="1.0" />
+	</attachments>
+	<attachments chance="0.5" name="Rifle_Flashlights">
+		<item name="UniversalLight" chance="1.0" />
 	</attachments>
 	<!-- END CUSTOM -->
 	<cargo chance="0.15" name="foodHermit">

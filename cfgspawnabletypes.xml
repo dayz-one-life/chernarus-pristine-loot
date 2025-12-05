@@ -2376,18 +2376,21 @@
 	</type>
 	<type name="CZ75">
 		<attachments preset="Pistol_Optics" />
+		<attachments preset="Pistol_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_CZ75_15Rnd" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Glock19">
 		<attachments preset="Pistol_Optics" />
+		<attachments preset="Pistol_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_Glock_15Rnd" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="FNX45">
 		<attachments preset="Pistol_Optics" />
+		<attachments preset="Pistol_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_FNX45_15Rnd" chance="1.00" />
 		</attachments>
@@ -2400,6 +2403,7 @@
 	<type name="MP5K">
 		<attachments preset="MP5_Handguards" />
 		<attachments preset="M4_CQB_Optics" />
+		<attachments preset="Rifle_Flashlights" />
 		<attachments chance="1.00">
 			<item name="MP5k_StockBttstck" chance="1.00" />
 		</attachments>
@@ -2409,6 +2413,7 @@
 	</type>
 	<type name="UMP45">
 		<attachments preset="M4_CQB_Optics" />
+		<attachments preset="Rifle_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_UMP_25Rnd" chance="1.00" />
 		</attachments>
@@ -2421,6 +2426,7 @@
 	</type>
 	<type name="ASVAL">
 		<attachments preset="M4_Optics" />
+		<attachments preset="Rifle_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_Vikhr_30Rnd" chance="1.0" />
 		</attachments>
@@ -2456,6 +2462,7 @@
 		<attachments preset="AK_Handguards" />
 		<attachments preset="AK_Buttstocks" />
 		<attachments preset="AK_CQB_Optics" />
+		<attachments preset="Rifle_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_AKM_Drum75Rnd" chance="1.0" />
 		</attachments>
@@ -2464,6 +2471,7 @@
 		<attachments preset="AK_Handguards" />
 		<attachments preset="AK_Buttstocks" />
 		<attachments preset="AK_CQB_Optics" />
+		<attachments preset="Rifle_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_AK74_45Rnd" chance="1.0" />
 		</attachments>
@@ -2478,6 +2486,7 @@
 		<attachments preset="AK_Handguards" />
 		<attachments preset="AK_Buttstocks" />
 		<attachments preset="AK_CQB_Optics" />
+		<attachments preset="Rifle_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_AK101_30Rnd" chance="1.00" />
 		</attachments>
@@ -2486,6 +2495,7 @@
 		<attachments preset="M4_Handguards" />
 		<attachments preset="M4_Buttstocks" />
 		<attachments preset="M4_CQB_Optics" />
+		<attachments preset="Rifle_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_STANAG_60Rnd" chance="1.0" />
 		</attachments>
@@ -2502,6 +2512,7 @@
 	</type>
 	<type name="Aug">
 		<attachments preset="M4_CQB_Optics" />
+		<attachments preset="Rifle_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_STANAG_60Rnd" chance="1.0" />
 		</attachments>
@@ -2531,11 +2542,13 @@
 		</attachments>
 	</type>
 	<type name="Colt1911">
+		<attachments preset="Pistol_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_1911_7Rnd" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Engraved1911">
+		<attachments preset="Pistol_Flashlights" />
 		<attachments chance="1.0">
 			<item name="Mag_1911_7Rnd" chance="1.00" />
 		</attachments>
@@ -2627,6 +2640,7 @@
 	</type>
 	<type name="R12">
 		<attachments preset="M4_CQB_Optics" />
+		<attachments preset="Rifle_Flashlights" />
 	</type>
 	<type name="M14">
 		<attachments preset="M4_Ranged_Optics" />
