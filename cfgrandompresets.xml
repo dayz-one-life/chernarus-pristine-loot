@@ -88,6 +88,15 @@
 	<attachments chance="0.5" name="Rifle_Flashlights">
 		<item name="UniversalLight" chance="1.0" />
 	</attachments>
+	<attachments chance="0.5" name="Pistol_Suppressors">
+		<item name="PistolSuppressor" chance="1.0" />
+	</attachments>
+	<attachments chance="0.5" name="AK_Suppressors">
+		<item name="AK_Suppressor" chance="1.0" />
+	</attachments>
+	<attachments chance="0.5" name="M4_Suppressors">
+		<item name="M4_Suppressor" chance="1.0" />
+	</attachments>
 	<!-- END CUSTOM -->
 	<cargo chance="0.15" name="foodHermit">
 		<item name="TunaCan" chance="0.11" />
