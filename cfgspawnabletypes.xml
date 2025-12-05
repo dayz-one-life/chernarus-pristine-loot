@@ -1,5 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
+	<!-- 9V items -->
+	<type name="Flashlight">
+		<attachments preset="9v" />
+	</type>
+	<type name="TLRLight">
+		<attachments preset="9v" />
+	</type>
+	<type name="UniversalLight">
+		<attachments preset="9v" />
+	</type>
+	<type name="Headtorch_Black">
+		<attachments preset="9v" />
+	</type>
+	<type name="Headtorch_Grey">
+		<attachments preset="9v" />
+	</type>
+	<type name="NVGoggles">
+		<attachments preset="9v" />
+	</type>
+	<type name="Rangefinder">
+		<attachments preset="9v" />
+	</type>
+	<type name="GPSReceiver">
+		<attachments preset="9v" />
+	</type>
+	<type name="PersonalRadio">
+		<attachments preset="9v" />
+	</type>
+	<type name="Megaphone">
+		<attachments preset="9v" />
+	</type>
+	<type name="FNP45_MRDSOptic">
+		<attachments preset="9v" />
+	</type>
+	<type name="KashtanOptic">
+		<attachments preset="9v" />
+	</type>
+	<type name="KazuarOptic">
+		<attachments preset="9v" />
+	</type>
+	<type name="KobraOptic">
+		<attachments preset="9v" />
+	</type>
+	<type name="M4_T3NRDSOptic">
+		<attachments preset="9v" />
+	</type>
+	<type name="M68Optic">
+		<attachments preset="9v" />
+	</type>
+	<type name="MK4Optic_Black">
+		<attachments preset="9v" />
+	</type>
+	<type name="MK4Optic_Green">
+		<attachments preset="9v" />
+	</type>
+	<type name="MK4Optic_Tan">
+		<attachments preset="9v" />
+	</type>
+	<type name="PSO11Optic">
+		<attachments preset="9v" />
+	</type>
+	<type name="PSO1Optic">
+		<attachments preset="9v" />
+	</type>
+	<type name="PSO6Optic">
+		<attachments preset="9v" />
+	</type>
+	<type name="PistolOptic">
+		<attachments preset="9v" />
+	</type>
+	<type name="ReflexOptic">
+		<attachments preset="9v" />
+	</type>
+	<type name="SportingOptic">
+		<attachments preset="9v" />
+	</type>
+	<type name="StarlightOptic">
+		<attachments preset="9v" />
+	</type>
+	<!-- End 9V items -->
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
