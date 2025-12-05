@@ -1,8 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <randompresets>
+	<!-- CUSTOM -->
 	<attachments chance="1.0" name="9v">
 		<item name="Battery9V" chance="1.0" />
 	</attachments>
+	<attachments chance="1.0" name="AK_Buttstocks">
+		<item name="AK74_WoodBttstck" chance="0.2" />
+		<item name="AKS74U_Bttstck" chance="0.2" />
+		<item name="AK_FoldingBttstck" chance="0.2" />
+		<item name="AK_PlasticBttstck" chance="0.2" />
+		<item name="AK_WoodBttstck" chance="0.2" />
+	</attachments>
+	<attachments chance="1.0" name="AK_Handguards">
+		<item name="AK74_Hndgrd" chance="0.25" />
+		<item name="AK_PlasticHndgrd" chance="0.25" />
+		<item name="AK_RailHndgrd" chance="0.25" />
+		<item name="AK_WoodHndgrd" chance="0.25" />
+	</attachments>
+	<attachments chance="1.0" name="M4_Buttstocks">
+		<item name="M4_CQBBttstck" chance="0.34" />
+		<item name="M4_MPBttstck" chance="0.34" />
+		<item name="M4_OEBttstck" chance="0.34" />
+	</attachments>
+	<attachments chance="1.0" name="M4_Handguards">
+		<item name="M4_MPHndgrd" chance="0.34" />
+		<item name="M4_PlasticHndgrd" chance="0.34" />
+		<item name="M4_RISHndgrd" chance="0.34" />
+	</attachments>
+	<attachments chance="1.0" name="FAL_Buttstocks">
+		<item name="Fal_FoldingBttstck" chance="0.5" />
+		<item name="Fal_OeBttstck" chance="0.5" />
+	</attachments>
+	<attachments chance="1.0" name="MP5_Handguards">
+		<item name="MP5_PlasticHndgrd" chance="0.5" />
+		<item name="MP5_RailHndgrd" chance="0.5" />
+	</attachments>
+	<!-- END CUSTOM -->
 	<cargo chance="0.15" name="foodHermit">
 		<item name="TunaCan" chance="0.11" />
 		<item name="SardinesCan" chance="0.11" />

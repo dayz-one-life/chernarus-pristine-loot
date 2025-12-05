@@ -2420,12 +2420,7 @@
 		</attachments>
 	</type>
 	<type name="MP5K">
-		<attachments chance="0.05">
-			<item name="MP5_RailHndgrd" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MP5_PlasticHndgrd" chance="1.00" />
-		</attachments>
+		<attachments preset="MP5_Handguards" />
 		<attachments chance="1.00">
 			<item name="MP5k_StockBttstck" chance="1.00" />
 		</attachments>
@@ -2542,12 +2537,8 @@
 		</attachments>
 	</type>
 	<type name="AKM">
-		<attachments chance="1.00">
-			<item name="AK_PlasticBttstck" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_PlasticHndgrd" chance="1.00" />
-		</attachments>
+		<attachments preset="AK_Handguards" />
+		<attachments preset="AK_Buttstocks" />
 		<attachments chance="0.50">
 			<item name="KashtanOptic" chance="0.30" />
 			<item name="PSO11Optic" chance="0.20" />
@@ -2560,12 +2551,8 @@
 		</attachments>
 	</type>
 	<type name="AK74">
-		<attachments chance="1.00">
-			<item name="AK74_WoodBttstck" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK74_Hndgrd" chance="1.00" />
-		</attachments>
+		<attachments preset="AK_Handguards" />
+		<attachments preset="AK_Buttstocks" />
 		<attachments chance="0.30">
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
@@ -2576,20 +2563,14 @@
 		</attachments>
 	</type>
 	<type name="AKS74U">
-		<attachments chance="1.00">
-			<item name="AKS74U_Bttstck" chance="1.00" />
-		</attachments>
+		<attachments preset="AK_Buttstocks" />
 		<attachments chance="0.30">
 			<item name="Mag_AK74_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="AK101">
-		<attachments chance="1.00">
-			<item name="AK_PlasticBttstck" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="AK_PlasticHndgrd" chance="1.00" />
-		</attachments>
+		<attachments preset="AK_Handguards" />
+		<attachments preset="AK_Buttstocks" />
 		<attachments chance="0.30">
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
@@ -2599,12 +2580,8 @@
 		</attachments>
 	</type>
 	<type name="M4A1">
-		<attachments chance="1.00">
-			<item name="M4_OEBttstck" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="M4_PlasticHndgrd" chance="1.00" />
-		</attachments>
+		<attachments preset="M4_Handguards" />
+		<attachments preset="M4_Buttstocks" />
 		<attachments chance="1.00">
 			<item name="BUISOptic" chance="0.50" />
 			<item name="M4_CarryHandleOptic" chance="1.00" />
@@ -2649,10 +2626,7 @@
 		</attachments>
 	</type>
 	<type name="FAL">
-		<attachments chance="1.00">
-			<item name="Fal_FoldingBttstck" chance="0.50" />
-			<item name="Fal_OeBttstck" chance="1.00" />
-		</attachments>
+		<attachments preset="FAL_Buttstocks" />
 		<attachments chance="0.20">
 			<item name="BUISOptic" chance="0.20" />
 			<item name="M68Optic" chance="0.20" />
@@ -2844,16 +2818,6 @@
 		</attachments>
 	</type>
 	<!--  END OF WEAPONS  -->
-	<type name="PersonalRadio">
-		<attachments chance="0.30">
-			<item name="Battery9V" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="GPSReceiver">
-		<attachments chance="0.30">
-			<item name="Battery9V" chance="1.00" />
-		</attachments>
-	</type>
 	<!-- XMAS -->
 	<type name="GiftBox_Small_1">
 		<cargo preset="Xmas_Clothes_Small" />
