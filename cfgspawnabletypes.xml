@@ -2379,6 +2379,8 @@
 		<attachments preset="Pistol_Optics" />
 		<attachments preset="Pistol_Suppressors" />
 		<attachments preset="Pistol_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_CZ75_15Rnd" chance="1.00" />
 		</attachments>
@@ -2387,6 +2389,8 @@
 		<attachments preset="Pistol_Optics" />
 		<attachments preset="Pistol_Suppressors" />
 		<attachments preset="Pistol_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_Glock_15Rnd" chance="1.00" />
 		</attachments>
@@ -2395,6 +2399,8 @@
 		<attachments preset="Pistol_Optics" />
 		<attachments preset="Pistol_Suppressors" />
 		<attachments preset="Pistol_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_FNX45_15Rnd" chance="1.00" />
 		</attachments>
@@ -2410,6 +2416,8 @@
 		<attachments preset="M4_CQB_Optics" />
 		<attachments preset="Pistol_Suppressors" />
 		<attachments preset="Rifle_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.00">
 			<item name="MP5k_StockBttstck" chance="1.00" />
 		</attachments>
@@ -2421,12 +2429,15 @@
 		<attachments preset="M4_CQB_Optics" />
 		<attachments preset="Pistol_Suppressors" />
 		<attachments preset="Rifle_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_UMP_25Rnd" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="VSS">
 		<attachments preset="AK_Optics" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_Vikhr_30Rnd" chance="1.0" />
 		</attachments>
@@ -2434,18 +2445,22 @@
 	<type name="ASVAL">
 		<attachments preset="M4_Optics" />
 		<attachments preset="Rifle_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_Vikhr_30Rnd" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="Vikhr">
 		<attachments preset="AK_CQB_Optics" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_Vikhr_30Rnd" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="SV98">
 		<attachments preset="M4_Ranged_Optics" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_SV98_10Rnd" chance="1.0" />
 		</attachments>
@@ -2471,6 +2486,8 @@
 		<attachments preset="AK_CQB_Optics" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="Rifle_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_AKM_Drum75Rnd" chance="1.0" />
 		</attachments>
@@ -2481,6 +2498,8 @@
 		<attachments preset="AK_CQB_Optics" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="Rifle_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_AK74_45Rnd" chance="1.0" />
 		</attachments>
@@ -2498,6 +2517,8 @@
 		<attachments preset="AK_CQB_Optics" />
 		<attachments preset="AK_Suppressors" />
 		<attachments preset="Rifle_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_AK101_30Rnd" chance="1.00" />
 		</attachments>
@@ -2508,6 +2529,8 @@
 		<attachments preset="M4_CQB_Optics" />
 		<attachments preset="M4_Suppressors" />
 		<attachments preset="Rifle_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_STANAG_60Rnd" chance="1.0" />
 		</attachments>
@@ -2526,6 +2549,8 @@
 		<attachments preset="M4_CQB_Optics" />
 		<attachments preset="M4_Suppressors" />
 		<attachments preset="Rifle_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_STANAG_60Rnd" chance="1.0" />
 		</attachments>
@@ -2538,6 +2563,7 @@
 	<type name="FAL">
 		<attachments preset="FAL_Buttstocks" />
 		<attachments preset="M4_CQB_Optics" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_FAL_20Rnd" chance="1.00" />
 		</attachments>
@@ -2545,6 +2571,7 @@
 	<type name="SVD">
 		<attachments preset="AK_Ranged_Optics" />
 		<attachments preset="AK_Suppressors" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
 		</attachments>
@@ -2552,6 +2579,7 @@
 	<type name="SVD_Wooden">
 		<attachments preset="AK_Ranged_Optics" />
 		<attachments preset="AK_Suppressors" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
 		</attachments>
@@ -2559,6 +2587,7 @@
 	<type name="Colt1911">
 		<attachments preset="Pistol_Suppressors" />
 		<attachments preset="Pistol_Flashlights" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_1911_7Rnd" chance="1.00" />
 		</attachments>
@@ -2566,6 +2595,7 @@
 	<type name="Engraved1911">
 		<attachments preset="Pistol_Suppressors" />
 		<attachments preset="Pistol_Flashlights" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_1911_7Rnd" chance="1.00" />
 		</attachments>
@@ -2590,6 +2620,7 @@
 	<type name="Deagle">
 		<attachments preset="Pistol_Optics" />
 		<attachments preset="Pistol_Suppressors" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_Deagle_9rnd" chance="1.00" />
 		</attachments>
@@ -2597,6 +2628,7 @@
 	<type name="Deagle_Gold">
 		<attachments preset="Pistol_Optics" />
 		<attachments preset="Pistol_Suppressors" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_Deagle_9rnd" chance="1.00" />
 		</attachments>
@@ -2604,6 +2636,7 @@
 	<type name="Scout">
 		<attachments preset="M4_Ranged_Optics" />
 		<attachments preset="M4_Suppressors" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_Scout_5Rnd" chance="1.00" />
 		</attachments>
@@ -2611,6 +2644,7 @@
 	<type name="Scout_Chernarus">
 		<attachments preset="M4_Ranged_Optics" />
 		<attachments preset="M4_Suppressors" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_Scout_5Rnd" chance="1.00" />
 		</attachments>
@@ -2618,6 +2652,7 @@
 	<type name="Scout_Livonia">
 		<attachments preset="M4_Ranged_Optics" />
 		<attachments preset="M4_Suppressors" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_Scout_5Rnd" chance="1.00" />
 		</attachments>
@@ -2631,6 +2666,7 @@
 	<type name="PP19">
 		<attachments preset="Pistol_Suppressors" />
 		<attachments preset="AK_Optics" />
+		<attachments preset="9v" />
 		<attachments chance="1.00">
 			<item name="PP19_Bttstck" chance="1.00" />
 		</attachments>
@@ -2655,6 +2691,7 @@
 	</type>
 	<type name="MP133Shotgun">
 		<attachments preset="Pistol_Optics" />
+		<attachments preset="9v" />
 	</type>
 	<type name="PM73Rak">
 		<attachments chance="1.0">
@@ -2664,9 +2701,12 @@
 	<type name="R12">
 		<attachments preset="M4_CQB_Optics" />
 		<attachments preset="Rifle_Flashlights" />
+		<attachments preset="9v" />
+		<attachments preset="9v" />
 	</type>
 	<type name="M14">
 		<attachments preset="M4_Ranged_Optics" />
+		<attachments preset="9v" />
 		<attachments chance="1.0">
 			<item name="Mag_M14_20Rnd" chance="1.0" />
 		</attachments>
