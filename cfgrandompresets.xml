@@ -35,6 +35,53 @@
 		<item name="MP5_PlasticHndgrd" chance="0.5" />
 		<item name="MP5_RailHndgrd" chance="0.5" />
 	</attachments>
+	<attachments chance="1.0" name="AK_Optics">
+		<item name="KobraOptic" chance="0.2" />
+		<item name="KashtanOptic" chance="0.2" />
+		<item name="PSO11Optic" chance="0.2" />
+		<item name="PSO1Optic" chance="0.2" />
+		<item name="PSO6Optic" chance="0.2" />
+	</attachments>
+	<attachments chance="1.0" name="AK_CQB_Optics">
+		<item name="KobraOptic" chance="0.5" />
+		<item name="KashtanOptic" chance="0.5" />
+	</attachments>
+	<attachments chance="1.0" name="AK_Ranged_Optics">
+		<item name="PSO11Optic" chance="0.34" />
+		<item name="PSO1Optic" chance="0.34" />
+		<item name="PSO6Optic" chance="0.34" />
+	</attachments>
+	<attachments chance="1.0" name="M4_Optics">
+		<item name="ReflexOptic" chance="0.125" />
+		<item name="ACOGOptic" chance="0.125" />
+		<item name="ACOGOptic_6x" chance="0.125" />
+		<item name="M4_T3NRDSOptic" chance="0.125" />
+		<item name="M68Optic" chance="0.125" />
+		<item name="MK4Optic_Black" chance="0.125" />
+		<item name="MK4Optic_Green" chance="0.125" />
+		<item name="MK4Optic_Tan" chance="0.125" />
+	</attachments>
+	<attachments chance="1.0" name="M4_CQB_Optics">
+		<item name="ReflexOptic" chance="0.2" />
+		<item name="ACOGOptic" chance="0.2" />
+		<item name="ACOGOptic_6x" chance="0.2" />
+		<item name="M4_T3NRDSOptic" chance="0.2" />
+		<item name="M68Optic" chance="0.2" />
+	</attachments>
+	<attachments chance="1.0" name="M4_Ranged_Optics">
+		<item name="MK4Optic_Black" chance="0.34" />
+		<item name="MK4Optic_Green" chance="0.34" />
+		<item name="MK4Optic_Tan" chance="0.34" />
+	</attachments>
+	<attachments chance="0.5" name="Pistol_Optics">
+		<item name="FNP45_MRDSOptic" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="Hunting_Optics">
+		<item name="HuntingOptic" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="Mosin_Optics">
+		<item name="PUScopeOptic" chance="1.0" />
+	</attachments>
 	<!-- END CUSTOM -->
 	<cargo chance="0.15" name="foodHermit">
 		<item name="TunaCan" chance="0.11" />
