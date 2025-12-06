@@ -97,6 +97,276 @@
 	<attachments chance="0.5" name="M4_Suppressors">
 		<item name="M4_Suppressor" chance="1.0" />
 	</attachments>
+	<!-- CAR PARTS -->
+	<attachments chance="1.0" name="SparkPlugs">
+		<item name="SparkPlug" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="GlowPlugs">
+		<item name="GlowPlug" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="CarBatteries">
+		<item name="CarBattery" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="TruckBatteries">
+		<item name="TruckBattery" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="Radiators">
+		<item name="CarRadiator" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="Headlights">
+		<item name="HeadlightH7" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="AdaWheels">
+		<item name="HatchbackWheel" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="HummerWheels">
+		<item name="Offroad_02_Wheel" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="OlgaWheels">
+		<item name="CivSedanWheel" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="GunterWheels">
+		<item name="Hatchback_02_Wheel" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="SarkaWheels">
+		<item name="Sedan_02_Wheel" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="TruckWheels">
+		<item name="Truck_01_Wheel" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="TruckDoubleWheels">
+		<item name="Truck_01_WheelDouble" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="AdaDoors1">
+		<item name="HatchbackDoors_Driver" chance="0.17" />
+		<item name="HatchbackDoors_Driver_Blue" chance="0.17" />
+		<item name="HatchbackDoors_Driver_White" chance="0.17" />
+		<item name="HatchbackDoors_Driver_GreenRust" chance="0.17" />
+		<item name="HatchbackDoors_Driver_BlueRust" chance="0.17" />
+		<item name="HatchbackDoors_Driver_WhiteRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="AdaDoors2">
+		<item name="HatchbackDoors_CoDriver" chance="0.17" />
+		<item name="HatchbackDoors_CoDriver_Blue" chance="0.17" />
+		<item name="HatchbackDoors_CoDriver_White" chance="0.17" />
+		<item name="HatchbackDoors_CoDriver_GreenRust" chance="0.17" />
+		<item name="HatchbackDoors_CoDriver_BlueRust" chance="0.17" />
+		<item name="HatchbackDoors_CoDriver_WhiteRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="HummerDoors1">
+		<item name="Offroad_02_Door_1_1" chance="0.5" />
+		<item name="Offroad_02_Door_1_1_Rust" chance="0.5" />
+	</attachments>
+	<attachments chance="1.0" name="HummerDoors2">
+		<item name="Offroad_02_Door_1_2" chance="0.5" />
+		<item name="Offroad_02_Door_1_2_Rust" chance="0.5" />
+	</attachments>
+	<attachments chance="1.0" name="HummerDoors3">
+		<item name="Offroad_02_Door_2_1" chance="0.5" />
+		<item name="Offroad_02_Door_2_1_Rust" chance="0.5" />
+	</attachments>
+	<attachments chance="1.0" name="HummerDoors4">
+		<item name="Offroad_02_Door_2_2" chance="0.5" />
+		<item name="Offroad_02_Door_2_2_Rust" chance="0.5" />
+	</attachments>
+	<attachments chance="1.0" name="OlgaDoors1">
+		<item name="CivSedanDoors_Driver" chance="0.17" />
+		<item name="CivSedanDoors_Driver_Wine" chance="0.17" />
+		<item name="CivSedanDoors_Driver_Black" chance="0.17" />
+		<item name="CivSedanDoors_Driver_WhiteRust" chance="0.17" />
+		<item name="CivSedanDoors_Driver_WineRust" chance="0.17" />
+		<item name="CivSedanDoors_Driver_BlackRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="OlgaDoors2">
+		<item name="CivSedanDoors_CoDriver" chance="0.17" />
+		<item name="CivSedanDoors_CoDriver_Wine" chance="0.17" />
+		<item name="CivSedanDoors_CoDriver_Black" chance="0.17" />
+		<item name="CivSedanDoors_CoDriver_WhiteRust" chance="0.17" />
+		<item name="CivSedanDoors_CoDriver_WineRust" chance="0.17" />
+		<item name="CivSedanDoors_CoDriver_BlackRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="OlgaDoors3">
+		<item name="CivSedanDoors_BackLeft" chance="0.17" />
+		<item name="CivSedanDoors_BackLeft_Wine" chance="0.17" />
+		<item name="CivSedanDoors_BackLeft_Black" chance="0.17" />
+		<item name="CivSedanDoors_BackLeft_WhiteRust" chance="0.17" />
+		<item name="CivSedanDoors_BackLeft_WineRust" chance="0.17" />
+		<item name="CivSedanDoors_BackLeft_BlackRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="OlgaDoors4">
+		<item name="CivSedanDoors_BackRight" chance="0.17" />
+		<item name="CivSedanDoors_BackRight_Wine" chance="0.17" />
+		<item name="CivSedanDoors_BackRight_Black" chance="0.17" />
+		<item name="CivSedanDoors_BackRight_WhiteRust" chance="0.17" />
+		<item name="CivSedanDoors_BackRight_WineRust" chance="0.17" />
+		<item name="CivSedanDoors_BackRight_BlackRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="GunterDoors1">
+		<item name="Hatchback_02_Door_1_1" chance="0.17" />
+		<item name="Hatchback_02_Door_1_1_Black" chance="0.17" />
+		<item name="Hatchback_02_Door_1_1_Blue" chance="0.17" />
+		<item name="Hatchback_02_Door_1_1_RedRust" chance="0.17" />
+		<item name="Hatchback_02_Door_1_1_BlackRust" chance="0.17" />
+		<item name="Hatchback_02_Door_1_1_BlueRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="GunterDoors2">
+		<item name="Hatchback_02_Door_1_2" chance="0.17" />
+		<item name="Hatchback_02_Door_1_2_Black" chance="0.17" />
+		<item name="Hatchback_02_Door_1_2_Blue" chance="0.17" />
+		<item name="Hatchback_02_Door_1_2_RedRust" chance="0.17" />
+		<item name="Hatchback_02_Door_1_2_BlackRust" chance="0.17" />
+		<item name="Hatchback_02_Door_1_2_BlueRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="GunterDoors3">
+		<item name="Hatchback_02_Door_2_1" chance="0.17" />
+		<item name="Hatchback_02_Door_2_1_Black" chance="0.17" />
+		<item name="Hatchback_02_Door_2_1_Blue" chance="0.17" />
+		<item name="Hatchback_02_Door_2_1_RedRust" chance="0.17" />
+		<item name="Hatchback_02_Door_2_1_BlackRust" chance="0.17" />
+		<item name="Hatchback_02_Door_2_1_BlueRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="GunterDoors4">
+		<item name="Hatchback_02_Door_2_2" chance="0.17" />
+		<item name="Hatchback_02_Door_2_2_Black" chance="0.17" />
+		<item name="Hatchback_02_Door_2_2_Blue" chance="0.17" />
+		<item name="Hatchback_02_Door_2_2_RedRust" chance="0.17" />
+		<item name="Hatchback_02_Door_2_2_BlackRust" chance="0.17" />
+		<item name="Hatchback_02_Door_2_2_BlueRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="SarkaDoors1">
+		<item name="Sedan_02_Door_1_1" chance="0.17" />
+		<item name="Sedan_02_Door_1_1_Red" chance="0.17" />
+		<item name="Sedan_02_Door_1_1_Grey" chance="0.17" />
+		<item name="Sedan_02_Door_1_1_YellowRust" chance="0.17" />
+		<item name="Sedan_02_Door_1_1_RedRust" chance="0.17" />
+		<item name="Sedan_02_Door_1_1_GreyRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="SarkaDoors2">
+		<item name="Sedan_02_Door_1_2" chance="0.17" />
+		<item name="Sedan_02_Door_1_2_Red" chance="0.17" />
+		<item name="Sedan_02_Door_1_2_Grey" chance="0.17" />
+		<item name="Sedan_02_Door_1_2_YellowRust" chance="0.17" />
+		<item name="Sedan_02_Door_1_2_RedRust" chance="0.17" />
+		<item name="Sedan_02_Door_1_2_GreyRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="SarkaDoors3">
+		<item name="Sedan_02_Door_2_1" chance="0.17" />
+		<item name="Sedan_02_Door_2_1_Red" chance="0.17" />
+		<item name="Sedan_02_Door_2_1_Grey" chance="0.17" />
+		<item name="Sedan_02_Door_2_1_YellowRust" chance="0.17" />
+		<item name="Sedan_02_Door_2_1_RedRust" chance="0.17" />
+		<item name="Sedan_02_Door_2_1_GreyRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="SarkaDoors4">
+		<item name="Sedan_02_Door_2_2" chance="0.17" />
+		<item name="Sedan_02_Door_2_2_Red" chance="0.17" />
+		<item name="Sedan_02_Door_2_2_Grey" chance="0.17" />
+		<item name="Sedan_02_Door_2_2_YellowRust" chance="0.17" />
+		<item name="Sedan_02_Door_2_2_RedRust" chance="0.17" />
+		<item name="Sedan_02_Door_2_2_GreyRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="TruckDoors1">
+		<item name="Truck_01_Door_1_1" chance="0.17" />
+		<item name="Truck_01_Door_1_1_Blue" chance="0.17" />
+		<item name="Truck_01_Door_1_1_Orange" chance="0.17" />
+		<item name="Truck_01_Door_1_1_GreenRust" chance="0.17" />
+		<item name="Truck_01_Door_1_1_BlueRust" chance="0.17" />
+		<item name="Truck_01_Door_1_1_OrangeRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="TruckDoors2">
+		<item name="Truck_01_Door_2_1" chance="0.17" />
+		<item name="Truck_01_Door_2_1_Blue" chance="0.17" />
+		<item name="Truck_01_Door_2_1_Orange" chance="0.17" />
+		<item name="Truck_01_Door_2_1_GreenRust" chance="0.17" />
+		<item name="Truck_01_Door_2_1_BlueRust" chance="0.17" />
+		<item name="Truck_01_Door_2_1_OrangeRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="AdaHoods">
+		<item name="HatchbackHood" chance="0.17" />
+		<item name="HatchbackHood_Blue" chance="0.17" />
+		<item name="HatchbackHood_White" chance="0.17" />
+		<item name="HatchbackHood_GreenRust" chance="0.17" />
+		<item name="HatchbackHood_BlueRust" chance="0.17" />
+		<item name="HatchbackHood_WhiteRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="HummerHoods">
+		<item name="Offroad_02_Hood" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="OlgaHoods">
+		<item name="CivSedanHood" chance="0.17" />
+		<item name="CivSedanHood_Wine" chance="0.17" />
+		<item name="CivSedanHood_Black" chance="0.17" />
+		<item name="CivSedanHood_WhiteRust" chance="0.17" />
+		<item name="CivSedanHood_WineRust" chance="0.17" />
+		<item name="CivSedanHood_BlackRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="GunterHoods">
+		<item name="Hatchback_02_Hood" chance="0.17" />
+		<item name="Hatchback_02_Hood_Black" chance="0.17" />
+		<item name="Hatchback_02_Hood_Blue" chance="0.17" />
+		<item name="Hatchback_02_Hood_RedRust" chance="0.17" />
+		<item name="Hatchback_02_Hood_BlackRust" chance="0.17" />
+		<item name="Hatchback_02_Hood_BlueRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="SarkaHoods">
+		<item name="Sedan_02_Hood" chance="0.17" />
+		<item name="Sedan_02_Hood_Red" chance="0.17" />
+		<item name="Sedan_02_Hood_Grey" chance="0.17" />
+		<item name="Sedan_02_Hood_YellowRust" chance="0.17" />
+		<item name="Sedan_02_Hood_RedRust" chance="0.17" />
+		<item name="Sedan_02_Hood_GreyRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="TruckHoods">
+		<item name="Truck_01_Hood" chance="0.17" />
+		<item name="Truck_01_Hood_Blue" chance="0.17" />
+		<item name="Truck_01_Hood_Orange" chance="0.17" />
+		<item name="Truck_01_Hood_GreenRust" chance="0.17" />
+		<item name="Truck_01_Hood_BlueRust" chance="0.17" />
+		<item name="Truck_01_Hood_OrangeRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="AdaTrunks">
+		<item name="HatchbackTrunk" chance="0.17" />
+		<item name="HatchbackTrunk_Blue" chance="0.17" />
+		<item name="HatchbackTrunk_White" chance="0.17" />
+		<item name="HatchbackTrunk_GreenRust" chance="0.17" />
+		<item name="HatchbackTrunk_BlueRust" chance="0.17" />
+		<item name="HatchbackTrunk_WhiteRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="HummerTrunks">
+		<item name="Offroad_02_Trunk" chance="0.5" />
+		<item name="Offroad_02_Trunk_Rust" chance="0.5" />
+	</attachments>
+	<attachments chance="1.0" name="OlgaTrunks">
+		<item name="CivSedanTrunk" chance="0.17" />
+		<item name="CivSedanTrunk_Wine" chance="0.17" />
+		<item name="CivSedanTrunk_Black" chance="0.17" />
+		<item name="CivSedanTrunk_WhiteRust" chance="0.17" />
+		<item name="CivSedanTrunk_WineRust" chance="0.17" />
+		<item name="CivSedanTrunk_BlackRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="GunterTrunks">
+		<item name="Hatchback_02_Trunk" chance="0.17" />
+		<item name="Hatchback_02_Trunk_Black" chance="0.17" />
+		<item name="Hatchback_02_Trunk_Blue" chance="0.17" />
+		<item name="Hatchback_02_Trunk_RedRust" chance="0.17" />
+		<item name="Hatchback_02_Trunk_BlackRust" chance="0.17" />
+		<item name="Hatchback_02_Trunk_BlueRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="SarkaTrunks">
+		<item name="Sedan_02_Trunk" chance="0.17" />
+		<item name="Sedan_02_Trunk_Red" chance="0.17" />
+		<item name="Sedan_02_Trunk_Grey" chance="0.17" />
+		<item name="Sedan_02_Trunk_YellowRust" chance="0.17" />
+		<item name="Sedan_02_Trunk_RedRust" chance="0.17" />
+		<item name="Sedan_02_Trunk_GreyRust" chance="0.17" />
+	</attachments>
+	<attachments chance="1.0" name="Gasoline">
+		<item name="CanisterGasoline" chance="1.0" />
+	</attachments>
+	<attachments chance="1.0" name="Water">
+		<item name="WaterBottle" chance="1.0" />
+	</attachments>
+	<!-- END CAR PARTS -->
 	<!-- END CUSTOM -->
 	<cargo chance="0.15" name="foodHermit">
 		<item name="TunaCan" chance="0.11" />
