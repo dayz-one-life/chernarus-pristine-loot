@@ -560,45 +560,38 @@
 		</cargo>
 	</type>
 	<type name="FishingRod">
-		<attachments chance="0.35">
-			<item name="Hook" chance="0.75" />
-			<item name="Jig" chance="0.25" />
+		<attachments chance="1.0">
+			<item name="Jig" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="BoonieHat_Orange">
-		<attachments chance="0.35">
-			<item name="Hook" chance="0.75" />
-			<item name="Jig" chance="0.25" />
+		<attachments chance="1.0">
+			<item name="Jig" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="BoonieHat_Red">
-		<attachments chance="0.35">
-			<item name="Hook" chance="0.75" />
-			<item name="Jig" chance="0.25" />
+		<attachments chance="1.0">
+			<item name="Jig" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="BoonieHat_Tan">
-		<attachments chance="0.35">
-			<item name="Hook" chance="0.75" />
-			<item name="Jig" chance="0.25" />
+		<attachments chance="1.0">
+			<item name="Jig" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="BoonieHat_Olive">
-		<attachments chance="0.35">
-			<item name="Hook" chance="0.75" />
-			<item name="Jig" chance="0.25" />
+		<attachments chance="1.0">
+			<item name="Jig" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="BoonieHat_Blue">
-		<attachments chance="0.35">
-			<item name="Hook" chance="0.75" />
-			<item name="Jig" chance="0.25" />
+		<attachments chance="1.0">
+			<item name="Jig" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="BoonieHat_Winter">
-		<attachments chance="0.35">
-			<item name="Hook" chance="0.75" />
-			<item name="Jig" chance="0.25" />
+		<attachments chance="1.0">
+			<item name="Jig" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="AirborneMask">
