@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <spawnabletypes>
+	<!-- BUNKER TYPES-->
+	<type name="ZmbM_usSoldier_Officer_Convoy">
+		<attachments preset="headtorches" />
+		<attachments chance="1.00">
+			<item name="MedicalScrubsHat_Green" chance="1.0" />
+		</attachments>
+		<cargo preset="foodArmy" />
+		<cargo chance="0.6">
+			<item name="ScientificBriefcaseKeys" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="ZmbM_usSoldier_Heavy_Woodland">
+		<cargo preset="foodArmy" />
+		<cargo chance="0.6">
+			<item name="ShippingContainerKeys_Red" chance="0.25" />
+			<item name="ShippingContainerKeys_Orange" chance="0.25" />
+			<item name="ShippingContainerKeys_Yellow" chance="0.25" />
+			<item name="ShippingContainerKeys_Blue" chance="0.25" />
+		</cargo>
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+		<attachments chance="1.0">
+			<item name="PlateCarrierHolster" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="PlateCarrierPouches" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="ScientificBriefcase">
+		<cargo chance="1.0">
+			<item name="PunchedCard" chance="1.0" />
+		</cargo>
+	</type>
+	<type name="ScientificBriefcaseKeys">
+		<damage min="0.8" max="0.8" />
+	</type>
+	<type name="ShippingContainerKeys_Blue">
+		<damage min="0.8" max="0.8" />
+	</type>
+	<type name="ShippingContainerKeys_Yellow">
+		<damage min="0.8" max="0.8" />
+	</type>
+	<type name="ShippingContainerKeys_Red">
+		<damage min="0.8" max="0.8" />
+	</type>
+	<type name="ShippingContainerKeys_Orange">
+		<damage min="0.8" max="0.8" />
+	</type>
+	<type name="PunchedCard">
+		<damage min="0.8" max="0.8" />
+	</type>
+	<!-- END BUNKER TYPES -->
 	<!-- 9V items -->
 	<type name="Flashlight">
 		<attachments preset="9v" />
@@ -671,14 +723,14 @@
 	</type>
 	<type name="HuntingVest">
 		<cargo preset="mixHunter" />
-		<attachments chance="0.35">
-			<item name="Hook" chance="1.0" />
+		<attachments chance="1.0">
+			<item name="Jig" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="HuntingVest_Winter">
 		<cargo preset="mixHunter" />
-		<attachments chance="0.35">
-			<item name="Hook" chance="1.0" />
+		<attachments chance="1.0">
+			<item name="Jig" chance="1.0" />
 		</attachments>
 	</type>
 	<type name="HuntingJacket_Autumn">
@@ -1441,17 +1493,6 @@
 		<cargo preset="foodArmy" />
 		<attachments preset="headtorches" />
 		<attachments preset="OfficerHatArmy" />
-	</type>
-	<type name="ZmbM_usSoldier_Heavy_Woodland">
-		<cargo preset="foodArmy" />
-		<attachments preset="HeavyArmorArmy" />
-		<attachments preset="HeavyHelmetArmy" />
-		<attachments chance="1.0">
-			<item name="PlateCarrierHolster" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="PlateCarrierPouches" chance="1.0" />
-		</attachments>
 	</type>
 	<!--City-->
 	<type name="ZmbF_Clerk_Normal_Blue">
