@@ -368,12 +368,12 @@
 	</attachments>
 	<!-- END CAR PARTS -->
 	<!-- END CUSTOM -->
-	<cargo chance="0.15" name="foodHermit">
+	<cargo chance="0.3" name="foodHermit">
 		<item name="TunaCan" chance="0.11" />
 		<item name="SardinesCan" chance="0.11" />
 		<item name="Apple" chance="0.07" />
 	</cargo>
-	<cargo chance="0.16" name="foodVillage">
+	<cargo chance="0.3" name="foodVillage">
 		<item name="SodaCan_Cola" chance="0.02" />
 		<item name="SodaCan_Pipsi" chance="0.02" />
 		<item name="SodaCan_Spite" chance="0.02" />
@@ -393,7 +393,7 @@
 		<item name="Crackers" chance="0.05" />
 		<item name="Chips" chance="0.05" />
 	</cargo>
-	<cargo chance="0.16" name="foodCity">
+	<cargo chance="0.3" name="foodCity">
 		<!--same as the one above - just preparing -->
 		<item name="SodaCan_Cola" chance="0.02" />
 		<item name="SodaCan_Pipsi" chance="0.02" />
@@ -414,7 +414,7 @@
 		<item name="Crackers" chance="0.05" />
 		<item name="Chips" chance="0.05" />
 	</cargo>
-	<cargo chance="0.1" name="foodArmy">
+	<cargo chance="0.2" name="foodArmy">
 		<item name="SodaCan_Cola" chance="0.05" />
 		<item name="SodaCan_Pipsi" chance="0.05" />
 		<item name="SodaCan_Spite" chance="0.05" />
@@ -631,7 +631,7 @@
 		<item name="ZmijovkaCap_Green" chance="0.1" />
 		<item name="ZmijovkaCap_Red" chance="0.1" />
 	</attachments>
-	<attachments chance="0.1" name="bagsHunter">
+	<attachments chance="0.2" name="bagsHunter">
 		<item name="ArmyPouch_Beige" chance="0.35" />
 		<item name="ArmyPouch_Green" chance="0.35" />
 		<item name="CourierBag" chance="0.20" />
@@ -666,7 +666,7 @@
 		<item name="Pickaxe" chance="0.8" />
 		<item name="Shovel" chance="0.8" />
 	</attachments>
-	<attachments chance="0.1" name="bagsVillage">
+	<attachments chance="0.2" name="bagsVillage">
 		<item name="Slingbag_Black" chance="0.20" />
 		<item name="SlingBag_Gray" chance="0.20" />
 		<item name="SlingBag_Brown" chance="0.20" />
@@ -719,7 +719,7 @@
 		<item name="SportGlasses_Green" chance="0.10" />
 		<item name="SportGlasses_Orange" chance="0.10" />
 	</attachments>
-	<attachments chance="0.1" name="bagsCity">
+	<attachments chance="0.2" name="bagsCity">
 		<item name="CanvasBag_Olive" chance="0.30" />
 		<item name="TaloonBag_Orange" chance="0.10" />
 		<item name="TaloonBag_Blue" chance="0.10" />
@@ -791,14 +791,14 @@
 		<item name="TacticalGoggles" chance="0.10" />
 		<item name="AviatorGlasses" chance="0.25" />
 	</attachments>
-	<attachments chance="0.20" name="vestsArmy">
+	<attachments chance="0.4" name="vestsArmy">
 		<item name="UKAssVest_Black" chance="0.20" />
 		<item name="UKAssVest_Camo" chance="0.20" />
 		<item name="UKAssVest_Khaki" chance="0.2" />
 		<item name="UKAssVest_Olive" chance="0.2" />
 		<item name="SmershVest" chance="0.05" />
 	</attachments>
-	<attachments chance="0.08" name="bagsArmy">
+	<attachments chance="0.2" name="bagsArmy">
 		<item name="DuffelBagSmall_Camo" chance="0.10" />
 		<item name="DuffelBagSmall_Green" chance="0.10" />
 		<item name="DuffelBagSmall_Medical" chance="0.10" />
@@ -811,6 +811,8 @@
 	</attachments>
 	<attachments chance="1.00" name="HeavyArmorArmy">
 		<item name="PlateCarrierVest" chance="1.00" />
+		<item name="PlateCarrierHolster" chance="1.00" />
+		<item name="PlateCarrierPouches" chance="1.00" />
 	</attachments>
 	<attachments chance="1.00" name="HeavyHelmetArmy">
 		<item name="Ssh68Helmet" chance="1.00" />
@@ -856,7 +858,7 @@
 		<item name="Headtorch_Black" chance="0.5" />
 	</attachments>
 	<!--T1 GEAR-->
-	<cargo chance="0.15" name="drinks_T1">
+	<cargo chance="0.2" name="drinks_T1">
 		<item name="SodaCan_Cola" chance="0.10" />
 		<item name="SodaCan_Pipsi" chance="0.10" />
 		<item name="SodaCan_Spite" chance="0.10" />
