@@ -3602,6 +3602,75 @@
 		<attachments chance="1.0">
 			<item name="TerritoryFlagKit" chance="1.0" />
 		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="FenceKit" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="WatchtowerKit" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="TerritoryFlagKit" chance="1.0" />
+		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Blue">
 		<attachments preset="TruckBatteries" />
@@ -3916,6 +3985,75 @@
 		<attachments chance="1.0">
 			<item name="TerritoryFlagKit" chance="1.0" />
 		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="FenceKit" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="WatchtowerKit" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="TerritoryFlagKit" chance="1.0" />
+		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Orange">
 		<attachments preset="TruckBatteries" />
@@ -4160,6 +4298,75 @@
 		</attachments>
 		<attachments chance="1.0">
 			<item name="Stone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="NailBox" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Whetstone" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="FenceKit" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="WatchtowerKit" chance="1.0" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="TerritoryFlagKit" chance="1.0" />
 		</attachments>
 		<attachments chance="1.0">
 			<item name="NailBox" chance="1.0" />
