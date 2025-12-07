@@ -3,6 +3,18 @@
     <message>
         <deadline>120</deadline>
         <shutdown>1</shutdown>
-        <text>#name will restart in #tmin minutes.</text>
+        <text>Server will restart in #tmin minutes.</text>
+    </message>
+    <message>
+        <repeat>1</repeat>
+        <text>Welcome to One Life. Deaths result in a 12-hour ban so survive wisely!</text>
+    </message>
+    <message>
+        <repeat>1</repeat>
+        <text>Join the discord: https://dayzonelife.com</text>
+    </message>
+    <message>
+        <repeat>1</repeat>
+        <text>Earn unbans through discord by linking your account and referring other players!</text>
     </message>
 </messages>
