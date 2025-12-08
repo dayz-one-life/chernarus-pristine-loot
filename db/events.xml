@@ -1196,22 +1196,4 @@
             <child lootmax="0" lootmin="0" max="10" min="3" type="Truck_01_Covered_Orange" />
         </children>
     </event>
-    <event name="Static14fb597e2739443585d37b154b6444ea">
-        <!--DayZ++ Event purchased by ronaldraygun1312 (ID: 481653901960151050) on 1765158996.10736 (UNIX timestamp)-->
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>1</max>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
-        <saferadius>0</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>100</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="0" />
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Land_Misc_Well_Pump_Yellow" />
-        </children>
-    </event>
 </events>

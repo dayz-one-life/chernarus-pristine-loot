@@ -1496,8 +1496,4 @@
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
-    <event name="Static14fb597e2739443585d37b154b6444ea">
-        <!--DayZ++ Event purchased by ronaldraygun1312 (ID: 481653901960151050) on 1765158996.10736 (UNIX timestamp)-->
-        <pos x="212.89" z="2382.0" a="-1.0" />
-    </event>
 </eventposdef>
