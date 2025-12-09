@@ -3017,10 +3017,7 @@
 		<attachments preset="AdaHoods" />
 		<attachments preset="AdaTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="OffroadHatchback_Blue">
 		<attachments preset="SparkPlugs" />
@@ -3038,10 +3035,7 @@
 		<attachments preset="AdaHoods" />
 		<attachments preset="AdaTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="OffroadHatchback_White">
 		<attachments preset="SparkPlugs" />
@@ -3059,10 +3053,7 @@
 		<attachments preset="AdaHoods" />
 		<attachments preset="AdaTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="Offroad_02">
 		<attachments preset="GlowPlugs" />
@@ -3081,6 +3072,7 @@
 		<attachments preset="HummerHoods" />
 		<attachments preset="HummerTrunks" />
 		<attachments preset="Gasoline" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="CivilianSedan">
 		<attachments preset="SparkPlugs" />
@@ -3100,10 +3092,7 @@
 		<attachments preset="OlgaHoods" />
 		<attachments preset="OlgaTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="CivilianSedan_Wine">
 		<attachments preset="SparkPlugs" />
@@ -3123,10 +3112,7 @@
 		<attachments preset="OlgaHoods" />
 		<attachments preset="OlgaTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="CivilianSedan_Black">
 		<attachments preset="SparkPlugs" />
@@ -3146,10 +3132,7 @@
 		<attachments preset="OlgaHoods" />
 		<attachments preset="OlgaTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="Hatchback_02">
 		<attachments preset="SparkPlugs" />
@@ -3169,10 +3152,7 @@
 		<attachments preset="GunterHoods" />
 		<attachments preset="GunterTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="Hatchback_02_Black">
 		<attachments preset="SparkPlugs" />
@@ -3192,10 +3172,7 @@
 		<attachments preset="GunterHoods" />
 		<attachments preset="GunterTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="Hatchback_02_Blue">
 		<attachments preset="SparkPlugs" />
@@ -3215,10 +3192,7 @@
 		<attachments preset="GunterHoods" />
 		<attachments preset="GunterTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="Sedan_02">
 		<attachments preset="SparkPlugs" />
@@ -3238,10 +3212,7 @@
 		<attachments preset="SarkaHoods" />
 		<attachments preset="SarkaTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="Sedan_02_Red">
 		<attachments preset="SparkPlugs" />
@@ -3261,10 +3232,7 @@
 		<attachments preset="SarkaHoods" />
 		<attachments preset="SarkaTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="Sedan_02_Grey">
 		<attachments preset="SparkPlugs" />
@@ -3284,10 +3252,7 @@
 		<attachments preset="SarkaHoods" />
 		<attachments preset="SarkaTrunks" />
 		<attachments preset="Gasoline" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
-		<attachments preset="Water" />
+		<attachments preset="Barrels" />
 	</type>
 	<type name="Truck_01_Covered">
 		<attachments preset="TruckBatteries" />
@@ -3305,30 +3270,10 @@
 		<attachments preset="TruckDoors2" />
 		<attachments preset="TruckHoods" />
 		<attachments preset="Gasoline" />
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
+		<attachments preset="Barrels" />
+		<attachments preset="Barrels" />
+		<attachments preset="Barrels" />
+		<attachments preset="Barrels" />
 		<attachments chance="1.0">
 			<item name="WoodenCrate" chance="1.0" />
 		</attachments>
@@ -3436,102 +3381,6 @@
 		</attachments>
 		<attachments chance="1.0">
 			<item name="Flag_White" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
 		</attachments>
 		<attachments chance="1.0">
 			<item name="NailBox" chance="1.0" />
@@ -3619,30 +3468,10 @@
 		<attachments preset="TruckDoors2" />
 		<attachments preset="TruckHoods" />
 		<attachments preset="Gasoline" />
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
+		<attachments preset="Barrels" />
+		<attachments preset="Barrels" />
+		<attachments preset="Barrels" />
+		<attachments preset="Barrels" />
 		<attachments chance="1.0">
 			<item name="WoodenCrate" chance="1.0" />
 		</attachments>
@@ -3750,102 +3579,6 @@
 		</attachments>
 		<attachments chance="1.0">
 			<item name="Flag_White" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
 		</attachments>
 		<attachments chance="1.0">
 			<item name="NailBox" chance="1.0" />
@@ -3933,30 +3666,10 @@
 		<attachments preset="TruckDoors2" />
 		<attachments preset="TruckHoods" />
 		<attachments preset="Gasoline" />
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Barrel_Red" chance="0.25" />
-			<item name="Barrel_Yellow" chance="0.25" />
-			<item name="Barrel_Green" chance="0.25" />
-			<item name="Barrel_Blue" chance="0.25" />
-		</attachments>
+		<attachments preset="Barrels" />
+		<attachments preset="Barrels" />
+		<attachments preset="Barrels" />
+		<attachments preset="Barrels" />
 		<attachments chance="1.0">
 			<item name="WoodenCrate" chance="1.0" />
 		</attachments>
@@ -4064,102 +3777,6 @@
 		</attachments>
 		<attachments chance="1.0">
 			<item name="Flag_White" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
-		</attachments>
-		<attachments chance="1.0">
-			<item name="Stone" chance="1.0" />
 		</attachments>
 		<attachments chance="1.0">
 			<item name="NailBox" chance="1.0" />

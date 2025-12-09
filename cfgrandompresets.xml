@@ -367,6 +367,12 @@
 		<item name="WaterBottle" chance="1.0" />
 	</attachments>
 	<!-- END CAR PARTS -->
+	<attachments chance="1.0" name="Barrels">
+		<item name="Barrel_Red" chance="0.25" />
+		<item name="Barrel_Yellow" chance="0.25" />
+		<item name="Barrel_Green" chance="0.25" />
+		<item name="Barrel_Blue" chance="0.25" />
+	</attachments>
 	<!-- END CUSTOM -->
 	<cargo chance="0.3" name="foodHermit">
 		<item name="TunaCan" chance="0.11" />
