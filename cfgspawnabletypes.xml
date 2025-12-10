@@ -1438,7 +1438,7 @@
 	<!--NBC-->
 	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />
-		<cargo chance="0.03">
+		<cargo chance="0.04">
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
 	</type>
