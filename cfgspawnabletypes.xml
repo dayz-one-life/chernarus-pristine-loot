@@ -1438,15 +1438,31 @@
 	<!--NBC-->
 	<type name="ZmbM_NBC_Grey">
 		<cargo preset="ContaminatedCargo" />
-		<cargo chance="0.03">
-			<item name="AntiChemInjector" chance="1.0" />
-		</cargo>
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsCity" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="bagsCity" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="vestsHunter" />
+		<attachments preset="vestsPolice" />
 	</type>
 	<type name="ZmbM_NBC_Yellow">
 		<cargo preset="ContaminatedCargo" />
-		<cargo chance="0.01">
-			<item name="AntiChemInjector" chance="1.0" />
-		</cargo>
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+		<cargo preset="toolsCity" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="bagsCity" />
+		<attachments preset="bagsHunter" />
+		<attachments preset="vestsArmy" />
+		<attachments preset="vestsHunter" />
+		<attachments preset="vestsPolice" />
 	</type>
 	<!--ARMY-->
 	<type name="ZmbM_PatrolNormal_Autumn">

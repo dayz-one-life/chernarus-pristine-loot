@@ -9,7 +9,7 @@
 	"PlayerData": {
 		"disablePersonalLight": false,
 		"spawnGearPresetFiles": [
-			"custom/loadout.json"
+			"custom/nbc-grey.json"
 		],
 		"StaminaData": {
 			"sprintStaminaModifierErc": 0,

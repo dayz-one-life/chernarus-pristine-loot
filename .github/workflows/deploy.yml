@@ -3,7 +3,7 @@ name: FTP Deploy (develop branch)
 on:
   push:
     branches:
-      - develop
+      - toxic
 
 jobs:
   deploy:
