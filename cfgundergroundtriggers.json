@@ -141,6 +141,26 @@
 			"EyeAccommodation": 0.2,
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [
+				13644,
+				44,
+				3124.5
+			],
+			"Orientation": [
+				0,
+				0,
+				0
+			],
+			"Size": [
+				59,
+				10,
+				63
+			],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
 		}
 	]
 }
