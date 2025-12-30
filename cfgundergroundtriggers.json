@@ -3,9 +3,9 @@
 	[
 		{
 			"Position": [
-				13643.802,
-				44.492,
-				3078.245
+				13647.454,
+				44,
+				3069.65
 			],
 			"Orientation": [
 				0,
@@ -13,9 +13,9 @@
 				0
 			],
 			"Size": [
-				5,
-				8,
-				4.5
+				4.5,
+				10,
+				2
 			],
 			"EyeAccommodation": 1,
 			"Breadcrumbs": [],
@@ -23,9 +23,9 @@
 		},
 		{
 			"Position": [
-				13643.3395,
-				44.492,
-				3087.8155
+				13648.125,
+				44,
+				3075.129
 			],
 			"Orientation": [
 				0,
@@ -33,17 +33,17 @@
 				0
 			],
 			"Size": [
-				11,
-				8,
-				15.5
+				3,
+				10,
+				10
 			],
 			"EyeAccommodation": 0.4,
 			"Breadcrumbs": [
 				{
 					"Position": [
-						13638.201,
-						44.492,
-						3087.8155
+						13648.125,
+						44,
+						3070
 					],
 					"EyeAccommodation": 1,
 					"UseRaycast": 0,
@@ -51,9 +51,9 @@
 				},
 				{
 					"Position": [
-						13638.201,
-						44.492,
-						3088.8155
+						13648.125,
+						44,
+						3071.5
 					],
 					"EyeAccommodation": 0.9,
 					"UseRaycast": 0,
@@ -61,9 +61,9 @@
 				},
 				{
 					"Position": [
-						13638.201,
-						44.492,
-						3089.8155
+						13648.125,
+						44,
+						3073
 					],
 					"EyeAccommodation": 0.8,
 					"UseRaycast": 0,
@@ -71,9 +71,9 @@
 				},
 				{
 					"Position": [
-						13638.201,
-						44.492,
-						3090.8155
+						13648.125,
+						44,
+						3074.5
 					],
 					"EyeAccommodation": 0.7,
 					"UseRaycast": 0,
@@ -81,9 +81,9 @@
 				},
 				{
 					"Position": [
-						13638.201,
-						44.492,
-						3091.8155
+						13648.125,
+						44,
+						3076
 					],
 					"EyeAccommodation": 0.6,
 					"UseRaycast": 0,
@@ -91,25 +91,35 @@
 				},
 				{
 					"Position": [
-						13638.201,
-						44.492,
-						3092.8155
+						13648.125,
+						44,
+						3077.5
 					],
 					"EyeAccommodation": 0.5,
 					"UseRaycast": 0,
 					"Radius": -1
-				},
-				{
-					"Position": [
-						13638.201,
-						44.492,
-						3093.8155
-					],
-					"EyeAccommodation": 0.4,
-					"UseRaycast": 0,
-					"Radius": -1
 				}
 			],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [
+				13643.927,
+				44,
+				3078.1435
+			],
+			"Orientation": [
+				0,
+				0,
+				0
+			],
+			"Size": [
+				6,
+				10,
+				5
+			],
+			"EyeAccommodation": 0.4,
+			"Breadcrumbs": [],
 			"InterpolationSpeed": 1
 		}
 	]
