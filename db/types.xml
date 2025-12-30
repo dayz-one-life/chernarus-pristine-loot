@@ -119,7 +119,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="weapons"/>
-        <usage name="Military"/>
+        <usage name="Underground"/>
     </type>
     <type name="AK101_Black">
         <nominal>0</nominal>
@@ -8861,15 +8861,16 @@
         <value name="Tier3"/>
     </type>
     <type name="Grenade_ChemGas">
-        <nominal>0</nominal>
+        <nominal>8</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>8</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="explosives"/>
+        <usage name="Underground"/>
     </type>
     <type name="Guts">
         <nominal>0</nominal>
@@ -15904,15 +15905,16 @@
         <value name="Tier4"/>
     </type>
     <type name="PlateCarrierVest_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Underground"/>
     </type>
     <type name="PlateCarrierVest_Camo">
         <nominal>6</nominal>
@@ -15929,15 +15931,16 @@
         <value name="Tier4"/>
     </type>
     <type name="PlateCarrierVest_Green">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Underground"/>
     </type>
     <type name="PlateCarrierVest_Winter">
         <nominal>0</nominal>
