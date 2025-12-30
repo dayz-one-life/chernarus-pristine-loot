@@ -50,7 +50,7 @@
 	"WorldsData": {
 		"lightingConfig": 0,
 		"objectSpawnersArr": [
-			"./custom/skalisty-bunker.json",
+			"./custom/skalisty-bunker-2.json",
 			"./custom/6x30_1.json",
 			"./custom/6x30_2.json",
 			"./custom/6x30_3.json",
