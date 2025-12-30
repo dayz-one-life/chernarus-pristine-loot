@@ -221,6 +221,46 @@
 			"EyeAccommodation": 0.1,
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [
+				13693,
+				23,
+				3161
+			],
+			"Orientation": [
+				0,
+				0,
+				0
+			],
+			"Size": [
+				38,
+				10,
+				56
+			],
+			"EyeAccommodation": 0.0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [
+				13669,
+				23,
+				3155.5
+			],
+			"Orientation": [
+				0,
+				0,
+				0
+			],
+			"Size": [
+				22,
+				10,
+				23
+			],
+			"EyeAccommodation": 0.0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
 		}
 	]
 }
