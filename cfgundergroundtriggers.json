@@ -3,9 +3,9 @@
 	[
 		{
 			"Position": [
-				13635.377,
-				44.504,
-				3112.813
+				13643.802,
+				44.492,
+				3078.245
 			],
 			"Orientation": [
 				0,
@@ -13,12 +13,103 @@
 				0
 			],
 			"Size": [
-				11.021,
-				7.477,
-				33.862
+				5,
+				8,
+				4.5
 			],
-			"EyeAccommodation": 0.2,
+			"EyeAccommodation": 1,
 			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"Position": [
+				13643.3395,
+				44.492,
+				3087.8155
+			],
+			"Orientation": [
+				0,
+				0,
+				0
+			],
+			"Size": [
+				11,
+				8,
+				15.5
+			],
+			"EyeAccommodation": 0.4,
+			"Breadcrumbs": [
+				{
+					"Position": [
+						13638.201,
+						44.492,
+						3087.8155
+					],
+					"EyeAccommodation": 1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [
+						13638.201,
+						44.492,
+						3088.8155
+					],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [
+						13638.201,
+						44.492,
+						3089.8155
+					],
+					"EyeAccommodation": 0.8,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [
+						13638.201,
+						44.492,
+						3090.8155
+					],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [
+						13638.201,
+						44.492,
+						3091.8155
+					],
+					"EyeAccommodation": 0.6,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [
+						13638.201,
+						44.492,
+						3092.8155
+					],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [
+						13638.201,
+						44.492,
+						3093.8155
+					],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 0,
+					"Radius": -1
+				}
+			],
 			"InterpolationSpeed": 1
 		}
 	]
