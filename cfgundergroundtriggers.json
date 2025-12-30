@@ -45,7 +45,7 @@
 						44,
 						3070
 					],
-					"EyeAccommodation": 1,
+					"EyeAccommodation": 0.9,
 					"UseRaycast": 0,
 					"Radius": -1
 				},
@@ -55,7 +55,7 @@
 						44,
 						3071.5
 					],
-					"EyeAccommodation": 0.9,
+					"EyeAccommodation": 0.8,
 					"UseRaycast": 0,
 					"Radius": -1
 				},
@@ -65,7 +65,7 @@
 						44,
 						3073
 					],
-					"EyeAccommodation": 0.8,
+					"EyeAccommodation": 0.7,
 					"UseRaycast": 0,
 					"Radius": -1
 				},
@@ -75,7 +75,7 @@
 						44,
 						3074.5
 					],
-					"EyeAccommodation": 0.7,
+					"EyeAccommodation": 0.6,
 					"UseRaycast": 0,
 					"Radius": -1
 				},
@@ -85,7 +85,7 @@
 						44,
 						3076
 					],
-					"EyeAccommodation": 0.6,
+					"EyeAccommodation": 0.5,
 					"UseRaycast": 0,
 					"Radius": -1
 				},
@@ -95,7 +95,7 @@
 						44,
 						3077.5
 					],
-					"EyeAccommodation": 0.5,
+					"EyeAccommodation": 0.4,
 					"UseRaycast": 0,
 					"Radius": -1
 				}
