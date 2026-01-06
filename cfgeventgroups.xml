@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <eventgroupdef>
+    <group name="Ghillie_Buoy">
+        <child type="Land_MooringBuoy" deloot="0" lootmax="3" lootmin="1" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+        <child type="GhillieAtt_Winter" deloot="0" lootmax="3" lootmin="1" x="-0.1465" z="-0.6805" y="1.5000" a="0"/>
+        <child type="AmmoBox_308Win_20Rnd" deloot="0" lootmax="3" lootmin="1" x="1.4067" z="0.0883" y="1.4600" a="0"/>
+        <child type="Winchester70" deloot="0" lootmax="3" lootmin="1" x="0.2441" z="1.1180" y="1.4600" a="180"/>
+        <child type="GhillieHood_Winter" deloot="0" lootmax="3" lootmin="1" x="1.0073" z="0.3729" y="1.4261" a="0"/>
+        <child type="ShippingContainerKeys_Red" deloot="0" lootmax="3" lootmin="1" x="-1.2534" z="0.0286" y="2.1433" a="180"/>
+        <child type="GhillieSuit_Winter" deloot="0" lootmax="3" lootmin="1" x="0.2529" z="-0.9802" y="1.5500" a="180"/>
+        <child type="SmershVest" deloot="0" lootmax="3" lootmin="1" x="0.8032" z="-0.0961" y="1.4585" a="0"/>
+        <child type="SmershBag" deloot="0" lootmax="3" lootmin="1" x="-0.2124" z="0.5638" y="1.4700" a="0"/>
+        <child type="BalaclavaMask_White" deloot="0" lootmax="3" lootmin="1" x="-0.7407" z="0.5011" y="1.4700" a="0"/>
+        <child type="MilitaryBoots_Beige" deloot="0" lootmax="3" lootmin="1" x="-0.8755" z="-0.0940" y="1.4261" a="0"/>
+        <child type="Bonfire" deloot="0" lootmax="3" lootmin="1" x="0.0000" z="0.0000" y="-50.0000" a="0"/>
+        <child type="TacticalGloves_Beige" deloot="0" lootmax="3" lootmin="1" x="0.5542" z="0.4905" y="1.4261" a="0"/>
+        <child type="CombatKnife" deloot="0" lootmax="3" lootmin="1" x="-0.6602" z="0.1378" y="1.4600" a="180"/>
+        <child type="HuntingOptic" deloot="0" lootmax="3" lootmin="1" x="0.7417" z="-0.6125" y="1.4700" a="0"/>
+    </group>
     <!--pos x="5587.466" z="2063.353" a="0" y="7.591" group="Train_Abandoned_Cherno"/-->
     <group name="Train_Abandoned_Cherno">
 <child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" a="78.123" y="1.9"/>
